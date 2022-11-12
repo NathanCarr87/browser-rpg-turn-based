@@ -1,0 +1,478 @@
+{
+  "cell_bit": {
+    "aperture": 32,
+    "arch": 65536,
+    "block": 1,
+    "corridor": 4,
+    "door": 131072,
+    "label": 4278190080,
+    "locked": 262144,
+    "nothing": 0,
+    "perimeter": 16,
+    "portcullis": 2097152,
+    "room": 2,
+    "room_id": 65472,
+    "secret": 1048576,
+    "stair_down": 4194304,
+    "stair_up": 8388608,
+    "trapped": 524288
+  },
+  "cells": [
+    [
+      0, 0, 0, 0, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16,
+      16, 16, 16, 16
+    ],
+    [
+      0, 4, 0, 0, 16, 66, 66, 66, 66, 66, 16, 130, 130, 130, 130, 130, 1048580,
+      194, 194, 194, 194, 194, 16
+    ],
+    [
+      0, 4, 0, 0, 16, 66, 66, 66, 66, 66, 16, 130, 130, 130, 130, 130, 16, 194,
+      194, 194, 194, 194, 16
+    ],
+    [
+      0, 4, 0, 0, 16, 66, 66, 822083650, 66, 66, 524292, 130, 130, 838860930,
+      130, 130, 16, 194, 194, 855638210, 194, 194, 16
+    ],
+    [
+      0, 4, 0, 0, 16, 66, 66, 66, 66, 66, 16, 130, 130, 130, 130, 130, 16, 194,
+      194, 194, 194, 194, 16
+    ],
+    [
+      0, 4, 0, 0, 16, 66, 66, 66, 66, 66, 16, 130, 130, 130, 130, 130, 16, 194,
+      194, 194, 194, 194, 16
+    ],
+    [
+      0, 4, 0, 0, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 131076, 16, 65540,
+      16, 2097156, 16, 131076, 16
+    ],
+    [
+      0, 4, 0, 4, 4, 4, 0, 0, 0, 0, 16, 258, 258, 258, 258, 258, 16, 4, 0, 4, 0,
+      4, 0
+    ],
+    [
+      0, 4, 0, 4, 0, 4, 0, 0, 0, 0, 16, 258, 258, 258, 258, 258, 16, 4, 0, 4, 0,
+      4, 0
+    ],
+    [
+      0, 4, 0, 4, 0, 4, 0, 0, 0, 0, 16, 258, 258, 872415490, 258, 258, 16, 4, 0,
+      4, 0, 4, 0
+    ],
+    [
+      0, 4, 0, 4, 0, 4, 0, 0, 0, 0, 16, 258, 258, 258, 258, 258, 16, 4, 0, 0, 0,
+      4, 0
+    ],
+    [
+      0, 4, 0, 4, 0, 4, 4, 4, 4, 4, 131076, 258, 258, 258, 258, 258, 16, 4, 4,
+      4, 4, 4, 0
+    ],
+    [
+      0, 4, 0, 4, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 131076, 16, 16,
+      16, 16, 16, 16, 16
+    ],
+    [
+      0, 1627389956, 0, 4, 16, 322, 322, 322, 322, 322, 16, 386, 386, 386, 386,
+      386, 16, 450, 450, 450, 450, 450, 16
+    ],
+    [
+      0, 4, 0, 4, 16, 322, 322, 322, 322, 322, 16, 386, 386, 386, 386, 386, 16,
+      450, 450, 450, 450, 450, 16
+    ],
+    [
+      0, 1660944388, 0, 4, 16, 322, 322, 889192770, 322, 322, 2097156, 386, 386,
+      905970050, 386, 386, 16, 450, 450, 922747330, 450, 450, 16
+    ],
+    [
+      0, 4, 0, 4, 16, 322, 322, 322, 322, 322, 16, 386, 386, 386, 386, 386, 16,
+      450, 450, 450, 450, 450, 16
+    ],
+    [
+      0, 4, 0, 4, 16, 322, 322, 322, 322, 322, 16, 386, 386, 386, 386, 386, 16,
+      450, 450, 450, 450, 450, 16
+    ],
+    [
+      0, 4, 0, 4, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16,
+      65540, 16, 131076, 16
+    ],
+    [
+      0, 4, 0, 1694498820, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 0, 4,
+      0
+    ],
+    [0, 4, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 4, 0, 4, 0],
+    [
+      0, 4, 0, 4, 0, 1761607684, 4, 4, 4, 1828716548, 4, 4, 4, 4, 4, 4, 0, 4, 0,
+      4, 0, 4, 0
+    ],
+    [0, 4, 0, 4, 0, 4, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 4, 0, 4, 0, 4, 0],
+    [0, 4, 0, 4, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 0, 4, 4, 4, 0, 4, 0, 4, 0],
+    [0, 4, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 4, 0, 0, 0, 4, 0, 4, 0],
+    [0, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 0, 4, 0],
+    [0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0],
+    [0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ],
+  "corridor_features": {
+    "a": {
+      "detail": "Falling Block: DC 10 to find, DC 10 to disable;\n    affects all targets within a 10 ft. square area, DC 15 save or take 2d10 damage",
+      "key": "a",
+      "marks": [{ "col": 1, "row": 13 }],
+      "summary": "Falling Block"
+    },
+    "c": {
+      "detail": "An acrid odor fills the corridor",
+      "key": "c",
+      "marks": [{ "col": 1, "row": 15 }],
+      "summary": "An acrid odor fills the corridor"
+    },
+    "e": {
+      "detail": "Net Trap: DC 10 to find, DC 10 to disable;\n    affects all targets within a 10 ft. square area, DC 11 save or become restrained",
+      "key": "e",
+      "marks": [{ "col": 3, "row": 19 }],
+      "summary": "Net Trap"
+    },
+    "i": {
+      "detail": "Poison Gas Trap: DC 10 to find, DC 15 to disable;\n    affects all targets within a 10 ft. square area, DC 12 save or take 2d10 poison damage",
+      "key": "i",
+      "marks": [{ "col": 5, "row": 21 }],
+      "summary": "Poison Gas Trap"
+    },
+    "m": {
+      "detail": "A chute falls into the corridor from above",
+      "key": "m",
+      "marks": [{ "col": 9, "row": 21 }],
+      "summary": "A chute falls into the corridor from above"
+    }
+  },
+  "details": {
+    "floor": "Smooth Stone",
+    "history": "The dungeon was created by an infernal cult as a stronghold. Its creators were destroyed by a magical catastrophe, and the dungeon has been conquered and altered many times since then.",
+    "illumination": "Average (shadowy in corridors, lamps or torches in most rooms)",
+    "special": null,
+    "temperature": "Very Hot (DC 10 Constitution save each hour\n    or gain one level of exhaustion)",
+    "walls": "Superior Masonry (DC 20 to climb)"
+  },
+  "rooms": [
+    null,
+    {
+      "area": 2500,
+      "col": 5,
+      "contents": {
+        "detail": {
+          "hidden_treasure": [
+            "Hidden (DC 25 to find) Locked Good Wooden Chest (DC 25 to unlock, DC 20 to break; 15 hp)",
+            "--",
+            "1700 cp, 600 sp, 70 gp, banded agate (10 gp), 4 x blue quartz (10 gp), eye agate (10 gp), hematite (10 gp), moss agate (10 gp), turquoise (10 gp), Spell Scroll (Armor of Agathys) (common, dmg 200), Spell Scroll (False Life) (common, dmg 200), Potion of Climbing (common, dmg 187), 2 x Potion of Healing (common, dmg 187)"
+          ]
+        },
+        "summary": "Hidden Treasure"
+      },
+      "doors": {
+        "east": [
+          {
+            "col": 10,
+            "desc": "Trapped and Locked Good Wooden Door (DC 25 to open, DC 15 to break; 15 hp)",
+            "out_id": 2,
+            "row": 3,
+            "trap": "Acid Spray: DC 15 to find, DC 10 to disable;\n    affects all targets within a 20 ft. cone, DC 15 save or take 1d10 acid damage\n    for 1d4 rounds",
+            "type": "trapped"
+          }
+        ]
+      },
+      "east": 9,
+      "height": 50,
+      "id": 1,
+      "north": 1,
+      "row": 1,
+      "shape": "square",
+      "size": "",
+      "south": 5,
+      "west": 5,
+      "width": 50
+    },
+    {
+      "area": 2500,
+      "col": 11,
+      "contents": { "summary": "Empty" },
+      "doors": {
+        "east": [
+          {
+            "col": 16,
+            "desc": "Secret (DC 25 to find) Unlocked Iron Door (60 hp)",
+            "out_id": 3,
+            "row": 1,
+            "secret": "The door is located near the ceiling and concealed behind a pile of skulls",
+            "type": "secret"
+          }
+        ],
+        "south": [
+          {
+            "col": 15,
+            "desc": "Unlocked Simple Wooden Door (10 hp)",
+            "out_id": 4,
+            "row": 6,
+            "type": "door"
+          }
+        ],
+        "west": [
+          {
+            "col": 10,
+            "desc": "Trapped and Locked Good Wooden Door (DC 25 to open, DC 15 to break; 15 hp)",
+            "out_id": 1,
+            "row": 3,
+            "trap": "Acid Spray: DC 15 to find, DC 10 to disable;\n    affects all targets within a 20 ft. cone, DC 15 save or take 1d10 acid damage\n    for 1d4 rounds",
+            "type": "trapped"
+          }
+        ]
+      },
+      "east": 15,
+      "height": 50,
+      "id": 2,
+      "north": 1,
+      "row": 1,
+      "shape": "square",
+      "size": "",
+      "south": 5,
+      "west": 11,
+      "width": 50
+    },
+    {
+      "area": 2500,
+      "col": 17,
+      "contents": { "summary": "Empty" },
+      "doors": {
+        "south": [
+          {
+            "col": 19,
+            "desc": "Wooden Portcullis (lift DC 20, DC 15 to break; 30 hp)",
+            "row": 6,
+            "type": "portcullis"
+          },
+          {
+            "col": 21,
+            "desc": "Stuck Strong Wooden Door (DC 15 to break; 20 hp)",
+            "row": 6,
+            "type": "door"
+          },
+          { "col": 17, "desc": "Archway", "row": 6, "type": "arch" }
+        ],
+        "west": [
+          {
+            "col": 16,
+            "desc": "Secret (DC 25 to find) Unlocked Iron Door (60 hp)",
+            "out_id": 2,
+            "row": 1,
+            "secret": "The door is located near the ceiling and concealed behind a pile of skulls",
+            "type": "secret"
+          }
+        ]
+      },
+      "east": 21,
+      "height": 50,
+      "id": 3,
+      "north": 1,
+      "row": 1,
+      "shape": "square",
+      "size": "",
+      "south": 5,
+      "west": 17,
+      "width": 50
+    },
+    {
+      "area": 2500,
+      "col": 11,
+      "contents": { "summary": "Empty" },
+      "doors": {
+        "north": [
+          {
+            "col": 15,
+            "desc": "Unlocked Simple Wooden Door (10 hp)",
+            "out_id": 2,
+            "row": 6,
+            "type": "door"
+          }
+        ],
+        "south": [
+          {
+            "col": 15,
+            "desc": "Unlocked Simple Wooden Door (10 hp)",
+            "out_id": 6,
+            "row": 12,
+            "type": "door"
+          }
+        ],
+        "west": [
+          {
+            "col": 10,
+            "desc": "Unlocked Simple Wooden Door (10 hp)",
+            "row": 11,
+            "type": "door"
+          }
+        ]
+      },
+      "east": 15,
+      "height": 50,
+      "id": 4,
+      "north": 7,
+      "row": 7,
+      "shape": "square",
+      "size": "",
+      "south": 11,
+      "west": 11,
+      "width": 50
+    },
+    {
+      "area": 2500,
+      "col": 5,
+      "contents": {
+        "detail": {
+          "room_features": "A faded and torn tapestry hangs from the north wall, and a crushed helm lies in the center of the room",
+          "trap": [
+            "Thunderstone Mine: DC 15 to find, DC 15 to disable;\n    affects all targets within 20 ft., DC 15 save or take 2d10 thunder damage\n    and become deafened for 1d4 rounds"
+          ]
+        },
+        "summary": "Thunderstone Mine"
+      },
+      "doors": {
+        "east": [
+          {
+            "col": 10,
+            "desc": "Trapped Iron Portcullis (DC 20 to lift, DC 25 to break; 60 hp)",
+            "out_id": 6,
+            "row": 15,
+            "trap": "One-way Door: DC 15 to find, DC 10 to disable",
+            "type": "portcullis"
+          }
+        ]
+      },
+      "east": 9,
+      "height": 50,
+      "id": 5,
+      "north": 13,
+      "row": 13,
+      "shape": "square",
+      "size": "",
+      "south": 17,
+      "west": 5,
+      "width": 50
+    },
+    {
+      "area": 2500,
+      "col": 11,
+      "contents": {
+        "detail": {
+          "room_features": "A shallow pit lies in the south-west corner of the room, and someone has scrawled \"The Throne of Madness shall be lost when the Silver Ring is lost\" on the east wall"
+        },
+        "summary": "Empty"
+      },
+      "doors": {
+        "north": [
+          {
+            "col": 15,
+            "desc": "Unlocked Simple Wooden Door (10 hp)",
+            "out_id": 4,
+            "row": 12,
+            "type": "door"
+          }
+        ],
+        "west": [
+          {
+            "col": 10,
+            "desc": "Trapped Iron Portcullis (DC 20 to lift, DC 25 to break; 60 hp)",
+            "out_id": 5,
+            "row": 15,
+            "trap": "One-way Door: DC 15 to find, DC 10 to disable",
+            "type": "portcullis"
+          }
+        ]
+      },
+      "east": 15,
+      "height": 50,
+      "id": 6,
+      "north": 13,
+      "row": 13,
+      "shape": "square",
+      "size": "",
+      "south": 17,
+      "west": 11,
+      "width": 50
+    },
+    {
+      "area": 2500,
+      "col": 17,
+      "contents": {
+        "detail": {
+          "monster": [
+            "Ogre Zombie (cr 2, mm 316); deadly, 450 xp",
+            "--",
+            "Treasure: 20 cp"
+          ],
+          "room_features": "A faded and torn tapestry hangs from the west wall, and someone has scrawled \"door, left, straight, left\" in dwarvish runes on the north wall"
+        },
+        "inhabited": "Ogre Zombie",
+        "summary": "Ogre Zombie"
+      },
+      "doors": {
+        "south": [
+          {
+            "col": 21,
+            "desc": "Stuck Simple Wooden Door (DC 10 to break; 10 hp) (slides up)",
+            "row": 18,
+            "type": "door"
+          },
+          { "col": 19, "desc": "Archway", "row": 18, "type": "arch" }
+        ]
+      },
+      "east": 21,
+      "height": 50,
+      "id": 7,
+      "north": 13,
+      "row": 13,
+      "shape": "square",
+      "size": "",
+      "south": 17,
+      "west": 17,
+      "width": 50
+    }
+  ],
+  "settings": {
+    "add_stairs": "",
+    "cell_size": 18,
+    "corridor_layout": "Straight",
+    "door_set": "Standard",
+    "dungeon_layout": "Rectangle",
+    "dungeon_size": "Fine",
+    "grid": "Square",
+    "image_size": "",
+    "infest": "dnd_5e",
+    "last_room_id": 7,
+    "level": 1,
+    "map_cols": "51",
+    "map_rows": "65",
+    "map_style": "Standard",
+    "max_col": 22,
+    "max_row": 28,
+    "motif": "",
+    "n_cols": 23,
+    "n_i": 14,
+    "n_j": 11,
+    "n_pc": 4,
+    "n_rooms": 7,
+    "n_rows": 29,
+    "name": "The Dark Crypts of Nimundo the Lunatic",
+    "peripheral_egress": "",
+    "remove_arcs": "All",
+    "remove_deadends": "Some",
+    "room_layout": "Sparse",
+    "room_polymorph": "",
+    "room_size": "Small",
+    "seed": 142264270
+  },
+  "wandering_monsters": {
+    "1": "Ogre Zombie (cr 2, mm 316) and 1 x Zombie (cr 1/4, mm 316); deadly, 500 xp, scouting from another part of the dungeon",
+    "2": "Mimic (cr 2, mm 220); deadly, 450 xp, hunting for food",
+    "3": "Goblin Boss (cr 1, mm 166) and 1 x Goblin (cr 1/4, mm 166); medium, 250 xp, actively patrolling their territory",
+    "4": "Ogre Zombie (cr 2, mm 316) and 1 x Zombie (cr 1/4, mm 316); deadly, 500 xp, actively patrolling their territory",
+    "5": "3 x Goblin (cr 1/4, mm 166); hard, 150 xp, gathered around an evil shrine",
+    "6": "Bugbear (cr 1, mm 33) and 1 x Goblin (cr 1/4, mm 166); medium, 250 xp, lost and desperate"
+  }
+}
