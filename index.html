@@ -19,6 +19,7 @@
       let scene;
 
       let grid = [];
+      let doors = [];
       fetch('./data_1.json')
         .then((response) => response.json())
         .then((json) => {
@@ -92,16 +93,23 @@
         camera.position.x = 25;
         camera.position.y = 75;
         camera.rotateX(THREE.MathUtils.degToRad(-65));
-        console.log(grid);
-        let thing = grid.filter((x) => x.x === 3 && x.z === 17);
-        console.log(thing);
+        let thing = find_vector_in_list(grid, 3, 17);
+      }
+
+      function find_nearest_door(list, x, z) {}
+
+      function find_vector_in_list(list, x, z) {
+        return list.filter((vec) => vec.x === x && vec.z === z);
       }
 
       function build_short_hallway(x, z) {
-        let clone = cube.clone();
-        clone.position.x = x;
-        clone.position.z = z;
-        scene.add(clone);
+        if (find_vector_in_list(doors, x, z).length === 0) {
+          let clone = cube.clone();
+          clone.position.x = x;
+          clone.position.z = z;
+          doors.push(clone.position);
+          scene.add(clone);
+        }
 
         // let vector = new THREE.Vector3(x, 0, z);
         // if (
